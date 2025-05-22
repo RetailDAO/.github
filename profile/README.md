@@ -1,4 +1,4 @@
-[Retail_DAO_Banner](https://github.com/RetailDAO/Docs/blob/main/branding/graphical-aids/LP-banner.png)
+![Retail_DAO_Banner](https://github.com/RetailDAO/Docs/blob/main/branding/graphical-aids/LP-banner.png)
 # RetailDAO
 
 Welcome to Retail DAO, a decentralized autonomous organization (DAO) dedicated to empowering retail investors to achieve financial freedom through community-driven governance and collective wisdom. Operating on the Base Network, our $RETAIL governance token enables transparent, community-led decision-making.
