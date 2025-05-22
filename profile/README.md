@@ -1,4 +1,4 @@
-# RtailDAO
+# RetailDAO
 
 Welcome to Retail DAO, a decentralized autonomous organization (DAO) dedicated to empowering retail investors to achieve financial freedom through community-driven governance and collective wisdom. Operating on the Base Network, our $RETAIL governance token enables transparent, community-led decision-making.
 
@@ -9,7 +9,7 @@ Our mission is to provide retail investors with the tools, knowledge, and govern
 Retail DAO uses a hybrid governance model:
 - **Original Mint Authorized DAO**: Used to mint the $RETAIL token (1 billion total supply, minting to be revoked for transparency).
 - **Current Governance DAO**: Manages on-chain governance using $RETAIL tokens.
-- **Multisigs**:
+- **Multisigs**
 
 - **Off-Chain Governance**:
   - [Snapshot](https://snapshot.box/#/s:retaildaobase.eth) for minor proposals.
